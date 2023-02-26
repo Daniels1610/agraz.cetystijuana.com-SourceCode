@@ -1,0 +1,69 @@
+body {
+    background-color: #181818;
+    text-align: center;
+}
+
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: azure;
+}
+
+embed {
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #181818;
+}
+
+h1 {
+    color:#FBCB0A;
+    font-size: 5rem;
+    font-weight: 700;
+    font-family: 'DM Serif Display', sans-serif;
+    padding: 2rem;
+}
+
+h3 {
+    color:#FBCB0A;
+    font-size: 3rem;
+    font-family: 'DM Serif Display', sans-serif;
+}
+
+.daniel-photo {
+    margin-top: 2rem ;
+}
+
+.middle-container {
+    padding: 4rem auto;
+}
+
+.my-intro {
+    padding: 3rem 2rem;
+    margin-bottom: 2rem;
+}
+
+.here-header {
+    margin-bottom: 3rem;
+
+}
+
+.description-aboutme {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.navbar-brand {
+    margin-left: 2rem;
+}
+
+.nav-link {
+    margin: 0 1.5rem;
+}
+
+.navbar {
+    background-color: #6F38C5;
+}
